@@ -1,3 +1,16 @@
+# Create a dictionary containing student names and their marks.
+
+# Example:
+# students = {    "Rahul": 85,    "Amit": 67,    "Sneha": 92,    "Priya": 45}
+
+
+
+# Write a program to:
+# 1. Display all students and their marks.
+# 2. Find the student with the highest marks.
+# 3. Calculate the class average.
+# 4. Display students who scored above 75.
+
 students = {
     "Rahul": 85,
     "Amit": 67,
